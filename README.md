@@ -1,0 +1,1 @@
+project demonstrating a problem when starting a BaSys AAS server or registry using the BaSyx SDK from within a Spring application. See https://github.com/eclipse-basyx/basyx-java-sdk/issues/77 for more info
